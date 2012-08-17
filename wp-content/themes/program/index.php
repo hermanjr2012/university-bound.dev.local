@@ -1,7 +1,7 @@
 <?php get_header('main_head'); ?>
     <!--HOMEPAGE SLIDER SECTION-->
     
-    <div class="slider-wrapper pt">
+    <div class="slider-wrapper pt">xx
         <div class="slider-container">
         	<div id="headerimgs">
 				<div id="headerimg1" class="headerimg"></div>
